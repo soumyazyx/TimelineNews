@@ -9,9 +9,6 @@ I know how irritating it is when apps collect your data without your knowledge.
 
 This app doesn't collect any personally identifiable information. All data app preferences (like theme, etc.) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
-### Explanation of permissions requested in the app
-No permissions are needed for this app
-
 ### Explanation of cookie usage in the app
 No personally identifiable data is stored in cookies. 
 Only user settings(see table below) are stored. 
