@@ -16,7 +16,6 @@ Only user settings(see table below) are stored.
 | Name | Value| 
 |------|-------|
 | version | Stores the version of app |
-| theme   | Sets the theme of app (default `light`) |
 | edition | Sets the edition to read (default `international`) |
 | preference  | Sets the read preference (default `show unread`) |
 | search  | Stores the search string |
